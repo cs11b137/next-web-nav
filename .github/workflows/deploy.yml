@@ -27,13 +27,13 @@ jobs:
           node-version: "20"
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Build with Next.js
-        run: pnpm build
+        run: npm run build
 
       - name: Export static site
-        run: pnpm export
+        run: npm run export
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
