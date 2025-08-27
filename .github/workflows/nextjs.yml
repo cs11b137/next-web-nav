@@ -2,7 +2,7 @@ name: Deploy Next.js site to Pages
 
 on:
   push:
-    branches: ["main"]   # 👈 你的默认分支
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -33,12 +33,12 @@ jobs:
         run: npm run build
 
       - name: Export static site
-        run: npm run export   # 👈 必须加，生成 ./out
+        run: npm run export
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./out   # 👈 部署静态文件目录
+          path: ./out
 
   deploy:
     environment:
