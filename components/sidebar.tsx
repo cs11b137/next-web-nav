@@ -65,7 +65,7 @@ export function Sidebar({ onLinkClick }: SidebarProps) {
     <nav className="after:h-[calc(100vh-65px)] block min-h-screen w-full sm:w-60 flex-row flex-nowrap bg-background font-semibold sm:bg-background px-4 sm:px-6 sm:pb-6 pt-16 sm:pt-0">
       <div className="mx-6 hidden sm:block">
         <h2 className="h-14 leading-[4rem] text-lg font-semibold tracking-tight">
-          网址导航
+          Lynk
         </h2>
       </div>
       <div className="flex-start relative z-40 flex h-auto w-full flex-1 flex-col overflow-y-auto overflow-x-hidden rounded pt-4 opacity-100">
@@ -137,9 +137,6 @@ export function Sidebar({ onLinkClick }: SidebarProps) {
                       />
                     )}
                   </AnimatePresence>
-                  <div className="relative z-10 mb-2 flex items-center gap-2 rounded-r-lg p-2 transition-colors ease-in-out before:transition-colors hover:no-underline sm:border-l-0 sm:pl-6 sm:before:absolute sm:before:left-[-5px] sm:before:top-[2px] sm:before:h-[calc(100%-4px)] sm:before:w-[10px] sm:before:rounded-full sm:before:transition-colors">
-                    <span className="truncate text-sm">联系我</span>
-                  </div>
                 </div>
               </div>
             </div>
