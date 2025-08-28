@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   icons: {
-    icon: "/next-web-nav/favicon.ico",
+    icon: "/next-web-nav/favicon.svg",
   }
 }
 
