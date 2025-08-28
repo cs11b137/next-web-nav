@@ -220,25 +220,13 @@ const SettingDialog = () => {
               </AccordionItem>
             ))}
           </Accordion>
-          <Button variant="outline" onClick={handleAddCategory}>
+          <Button variant="outline" onClick={handleAddCategory} style="margin-top:16px;">
             <PlusCircle className="mr-1.5 h-4 w-4" />
             添加分类
           </Button>
         </ScrollArea>
 
         <DialogFooter className="flex-shrink-0 flex-col-reverse gap-2 border-t border-border pt-4 sm:flex-row sm:justify-end">
-          <Button
-            variant="destructive"
-            onClick={handleResetClick}
-            className={cn(
-              "h-9 text-sm transition-all",
-              "sm:mr-auto", 
-              isResetting && "animate-pulse bg-destructive/90 hover:bg-destructive"
-            )}
-          >
-            <RotateCcw className={cn("mr-1.5 h-4 w-4", isResetting && "animate-spin")} />
-            {isResetting ? "再次点击确认重置" : "重置数据"}
-          </Button>
             <Button variant="outline" onClick={handleCancel}>
               取消
             </Button>
