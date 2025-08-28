@@ -220,7 +220,7 @@ const SettingDialog = () => {
               </AccordionItem>
             ))}
           </Accordion>
-          <Button variant="outline" onClick={handleAddCategory} style="margin-top:16px;">
+          <Button className="mt-4" variant="outline" onClick={handleAddCategory}>
             <PlusCircle className="mr-1.5 h-4 w-4" />
             添加分类
           </Button>
