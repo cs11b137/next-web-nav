@@ -65,7 +65,7 @@ export function SiteHeader({ onMenuClick }: SiteHeaderProps) {
               搜索网站...
             </Button>
             <ThemeToggle />
-            <SettingDialog />
+            {/* <SettingDialog /> */}
           </div>
         </nav>
       </div>
