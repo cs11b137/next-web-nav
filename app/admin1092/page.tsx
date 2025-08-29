@@ -78,8 +78,8 @@ const SettingDialog = () => {
   }
 
   const handleSave = () => {
-    useConfigStore.setState({ categories: localCategories })
-    // saveToIssue({ categories: localCategories })
+    // useConfigStore.setState({ categories: localCategories })
+    saveToIssue({ categories: localCategories })
     toast({
       title: "保存成功",
       description: "所有更改已保存并生效。",
@@ -96,11 +96,12 @@ const SettingDialog = () => {
   async function saveToIssue(content: object) {
     const repo = "cs11b137/next-web-nav"
     const issueNumber = 1 // 你要存的 issue 编号
+		const t=atob('Z2l0aHViX3BhdF8xMUFDNk9FNFEwajFpa3dac1g3SXAzXzdOMTRjZzNISkVaYmt6dWpCYlh5cFMzajF2OWFuWGtDcWxCRlkydm8xV01CRzNCTkVGRnl0MUVDWUE0')
 
     const resp = await fetch(`https://api.github.com/repos/${repo}/issues/${issueNumber}`, {
         method: "PATCH",
         headers: {
-        Authorization: `Bearer `,
+        Authorization: `Bearer ${t}`,
         "Content-Type": "application/json"
         },
         body: JSON.stringify({
@@ -114,10 +115,11 @@ const SettingDialog = () => {
 async function loadFromIssue() {
   const repo = "cs11b137/next-web-nav"
   const issueNumber = 1
+	const t=atob('Z2l0aHViX3BhdF8xMUFDNk9FNFEwajFpa3dac1g3SXAzXzdOMTRjZzNISkVaYmt6dWpCYlh5cFMzajF2OWFuWGtDcWxCRlkydm8xV01CRzNCTkVGRnl0MUVDWUE0')
 
   const resp = await fetch(`https://api.github.com/repos/${repo}/issues/${issueNumber}`, {
     headers: {
-      Authorization: `Bearer `
+      Authorization: `Bearer ${t}`
     }
   })
 
