@@ -34,7 +34,7 @@ export default function IndexPage() {
             isSidebarOpen ? "translate-x-0" : "-translate-x-full"
           )}
         >
-          {/* Sidebar */}
+          {/* Sidebar 123456*/}
           <Sidebar onLinkClick={() => setSidebarOpen(false)} />
         </div>
 
