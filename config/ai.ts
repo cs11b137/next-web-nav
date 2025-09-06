@@ -2,28 +2,40 @@ export const gwAI = {
   title: "国外AI",
   items: [
     {
-      icon: "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+      icon: "https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg",
       title: "ChatGPT",
       desc: "OpenAI 出品的对话式人工智能助手",
-      link: "https://chat.openai.com"
+      link: "https://chatgpt.com/"
     },
     {
-      icon: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Google_Gemini_logo.svg",
+      icon: "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
       title: "Gemini",
       desc: "Google 推出的生成式人工智能平台",
-      link: "https://gemini.google.com"
+      link: "https://gemini.google.com/app"
     },
     {
-      icon: "https://cdn.brandfetch.io/claude.ai/fallback/claude.png",
+      icon: "https://claude.ai/images/claude_app_icon.png",
       title: "Claude",
       desc: "Anthropic 推出的 AI 助手",
-      link: "https://claude.ai"
+      link: "https://claude.ai/new"
     },
     {
-      icon: "https://pbs.twimg.com/profile_images/1712557329474646016/WmTXsE2F_400x400.jpg",
+      icon: "https://grok.com/favicon.ico",
       title: "Grok",
       desc: "xAI（马斯克团队）开发的对话式 AI",
-      link: "https://grok.x.ai"
+      link: "https://grok.com/"
+    },
+    {
+      icon: "https://www.gstatic.com/aistudio/ai_studio_favicon_2_256x256.png",
+      title: "Google AI Studio",
+      desc: "Google 提供的 AI 应用开发与实验平台",
+      link: "https://aistudio.google.com/app/prompts/new_chat"
+    },
+    {
+      icon: "https://www.perplexity.ai/favicon.ico",
+      title: "Perplexity",
+      desc: "基于 AI 的新一代搜索与问答引擎",
+      link: "https://www.perplexity.ai/"
     }
   ]
 }
@@ -33,10 +45,28 @@ export const gnAI = {
     title: "国内AI",
     items: [
       {
-        icon: "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
-        title: "Stack Overflow",
-        desc: "全球最大的技术问答网站",
-        link: "https://stackoverflow.com"
+        icon: "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
+        title: "通义",
+        desc: "阿里巴巴推出的中文大模型及 AI 助手",
+        link: "https://www.tongyi.com/qianwen/"
+      },
+      {
+        icon: "https://statics.moonshot.cn/kimi-web-seo/favicon.ico",
+        title: "Kimi",
+        desc: "Moonshot AI 推出的智能助手，擅长长文本处理",
+        link: "https://www.kimi.com/"
+      },
+      {
+        icon: "https://chat.deepseek.com/favicon.svg",
+        title: "DeepSeek",
+        desc: "面向科研与技术领域的 AI 模型与平台",
+        link: "https://chat.deepseek.com/"
+      },
+      {
+        icon: "https://open.bigmodel.cn/img/icons/favicon-32x32.png",
+        title: "智谱",
+        desc: "清华系团队研发的中文大模型与 AI 服务",
+        link: "https://open.bigmodel.cn/"
       }
     ]
 }

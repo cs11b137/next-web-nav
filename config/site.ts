@@ -1,4 +1,4 @@
-import { gwAI } from './ai'
+import { gwAI,gnAI } from './ai'
 
 export type SiteConfig = typeof siteConfig
 
@@ -29,5 +29,6 @@ type NavData = {
 }
 
 export const NavData: NavData[] = [
-  gwAI
+  gwAI,
+  gnAI
 ]
