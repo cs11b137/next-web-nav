@@ -1,5 +1,5 @@
 export const gwAI = {
-  title: "国外AI",
+  title: "国外大模型",
   items: [
     {
       icon: "https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg",
@@ -42,7 +42,7 @@ export const gwAI = {
 
 
 export const gnAI = {
-    title: "国内AI",
+    title: "国内大模型",
     items: [
       {
         icon: "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
@@ -67,6 +67,12 @@ export const gnAI = {
         title: "智谱",
         desc: "清华系团队研发的中文大模型与 AI 服务",
         link: "https://open.bigmodel.cn/"
+      },
+      {
+        icon: "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
+        title: "豆包",
+        desc: "字节跳动旗下 AI 智能助手",
+        link: "https://www.doubao.com/chat/"
       }
     ]
 }
