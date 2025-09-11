@@ -38,6 +38,12 @@ export const jobs = {
     link: "https://easycv.cn/"
     },
     {
+  icon: "https://maobucv.com/favicon-180x180.png",
+  title: "猫步简历",
+  desc: "开源免费的 AI 简历生成与制作工具，支持多格式导出与智能优化",
+  link: "https://maobucv.com/"
+},
+    {
     icon: "https://resumematcher.fyi/favicons/icon.svg",
     title: "Resume Matcher",
     desc: "开源工具，帮助你针对职位描述优化简历",  

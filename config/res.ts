@@ -62,6 +62,12 @@ export const res = {
   link: "https://github.com/datawhalechina/llm-cookbook"
 },
 {
+  icon: "https://github.githubassets.com/favicons/favicon.svg",
+  title: "AI Engineering Hub",
+  desc: "深入的 LLM、RAG 及 AI Agent 教程合集，适合从入门到实战",
+  link: "https://github.com/patchy631/ai-engineering-hub"
+},
+{
   icon: "https://www.mianshiya.com/favicon.ico",
   title: "Mianshiya",
   desc: "程序员免费在线刷题神器，涵盖海量高频面试题与优质题解",

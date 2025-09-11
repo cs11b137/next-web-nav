@@ -72,7 +72,49 @@ export const tool ={
       title: "Mind Map (Wanglin2)",
       desc: "基于浏览器的思维导图编辑器",
       link: "https://wanglin2.github.io/mind-map/#/"
-    }
+    },
+    {
+  icon: "https://gitseek.dev/favicon.ico",
+  title: "GitSeek",
+  desc: "从任意仓库快速提取所需代码片段，便于 AI 工具复用",
+  link: "https://gitseek.dev/"
+},
+{
+  icon: "https://www.svgshow.cn/favicon-32x32.png",
+  title: "SVG 秀",
+  desc: "基于 AI 的 SVG 生成与编辑站点，支持泳道图、图表等",
+  link: "https://svgshow.cn/"
+},
+{
+  icon: "https://prompt.always200.com/favicon.ico",
+  title: "Prompt Optimizer",
+  desc: "提示词优化器：布局模板、历史记录与系统提示优化工具",
+  link: "https://prompt.always200.com/"
+},
+{
+  icon: "https://cdn.deeppdf.ai/deeppdf/static/logo/deepdf-logo-blue.png",
+  title: "DeepPDF",
+  desc: "AI 工具：与 PDF 对话、生成摘要、解释术语、分析图像与公式",
+  link: "https://deeppdf.ai/"
+},
+{
+  icon: "https://gitdiagram.com/favicon.ico",
+  title: "GitDiagram",
+  desc: "将 GitHub 仓库结构秒变交互式项目架构图",
+  link: "https://gitdiagram.com/"
+},
+{
+  icon: "https://smart-mermaid.aizhi.site/favicon.ico",
+  title: "Smart Mermaid",
+  desc: "AI 驱文本生成 Mermaid 图表（流程图、时序图、甘特图等）",
+  link: "https://smart-mermaid.aizhi.site/"
+},
+{
+  icon: "https://deepwiki.org/favicon.ico",
+  title: "DeepWiki",
+  desc: "让你可“对话”查看任何 GitHub 项目的文档与架构图",
+  link: "https://deepwiki.org/"
+}
 
     ]    
 }

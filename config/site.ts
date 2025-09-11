@@ -5,6 +5,7 @@ import { weekly} from './weekly'
 import { jobs } from './jobs'
 import { tool } from './tool'
 import { dres } from './dres'
+import { apiRes } from './api'
 
 export type SiteConfig = typeof siteConfig
 
@@ -42,5 +43,6 @@ export const NavData: NavData[] = [
   weekly,
   jobs,
   tool,
-  dres
+  dres,
+  apiRes
 ]
