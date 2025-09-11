@@ -1,5 +1,5 @@
 export const com = {
-    title: '开发者社区',
+    title: '技术社区集',
     items: [
         {
         icon: "https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/static/favicons/apple-touch-icon.png",

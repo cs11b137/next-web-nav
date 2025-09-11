@@ -1,5 +1,5 @@
 export const apiRes = {
-  title: "免费API与Mock数据",
+  title: "接口与数据",
   items: [
     {
   icon: "https://freeapi.app/favicon.ico",

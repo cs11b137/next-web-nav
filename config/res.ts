@@ -1,5 +1,5 @@
 export const res = {
-    title: "开发者资源",
+    title: "开发学习库",
     items: [
         {
   icon: "https://bestofjs.org/favicon.ico",

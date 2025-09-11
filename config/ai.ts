@@ -1,5 +1,5 @@
 export const gwAI = {
-  title: "国外大模型",
+  title: "海外AI助手",
   items: [
     {
       icon: "https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg",
@@ -42,7 +42,7 @@ export const gwAI = {
 
 
 export const gnAI = {
-    title: "国内大模型",
+    title: "本土AI助手",
     items: [
       {
         icon: "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
