@@ -60,8 +60,13 @@ export const res = {
   title: "LLM-Cookbook",
   desc: "面向开发者的 LLM 入门教程（含吴恩达系列）",
   link: "https://github.com/datawhalechina/llm-cookbook"
+},
+{
+  icon: "https://www.mianshiya.com/favicon.ico",
+  title: "Mianshiya",
+  desc: "程序员免费在线刷题神器，涵盖海量高频面试题与优质题解",
+  link: "https://www.mianshiya.com/"
 }
-
 
     ]
 }
