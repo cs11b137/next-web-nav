@@ -1,0 +1,54 @@
+export const tool ={
+    title: '开发者工具',
+    items: [
+        {
+  icon: "https://app.diagrams.net/favicon.ico",
+  title: "diagrams.net",
+  desc: "在线免费流程图与图表绘制工具",
+  link: "https://app.diagrams.net/"
+},
+{
+  icon: "https://static.figma.com/app/icon/1/favicon.svg",
+  title: "Figma",
+  desc: "协作式界面和原型设计平台",
+  link: "https://www.figma.com/"
+},
+{
+  icon: "https://excalidraw.com/favicon-32x32.png",
+  title: "Excalidraw",
+  desc: "手绘风格的快速草图和协作画板",
+  link: "https://excalidraw.com/"
+},
+{
+  icon: "https://wireflow.co/favicon-96x96.png",
+  title: "Wireflow",
+  desc: "可视化创建用户流程与界面流原型", 
+  link: "https://wireflow.co/"
+},
+{
+  icon: "https://www.svgviewer.dev/favicon.ico",
+  title: "SVG Viewer",
+  desc: "浏览与编辑 SVG 格式图形在线工具",
+  link: "https://www.svgviewer.dev/"
+},
+{
+  icon: "https://www.logo.surf/favicon-2048x2048.png",
+  title: "Logo Surf",
+  desc: "在线 Logo 浏览与灵感库",
+  link: "https://www.logo.surf/"
+},
+{
+  icon: "https://drawdb.vercel.app/favicon.ico",
+  title: "drawDB",
+  desc: "在线 ER 图与数据库模型编辑器，支持导出 SQL",
+  link: "https://drawdb.vercel.app/"
+},
+{
+  icon: "https://framerusercontent.com/images/SSN4pchODCTPuA94fNGU6D6o.png",
+  title: "ChartDB",
+  desc: "开源的数据库模式可视化与 ER 图工具",
+  link: "https://chartdb.io/"
+}
+
+    ]    
+}

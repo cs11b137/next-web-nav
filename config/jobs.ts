@@ -24,6 +24,25 @@ export const jobs = {
       title: "RuanYF Weekly rgba(103, 72, 103, 0.27)",
       desc: "阮一峰 Weekly 免费的程序员招聘服务",
       link: "https://github.com/ruanyf/weekly/issues/7674"
+    },
+    {
+    icon: "https://www.elegantresume.pro/favicon.ico",
+    title: "ElegantResume",
+    desc: "AI 驱动的免费简历生成器，快速打造专业简历",  
+    link: "https://www.elegantresume.pro/"
+    },
+    {
+    icon: "https://easycv.cn/favicon.ico",
+    title: "EasyCV.cn",
+    desc: "互联网从业者专用在线简历生成器，五分钟完成简历",  
+    link: "https://easycv.cn/"
+    },
+    {
+    icon: "https://resumematcher.fyi/favicons/icon.svg",
+    title: "Resume Matcher",
+    desc: "开源工具，帮助你针对职位描述优化简历",  
+    link: "https://resumematcher.fyi/"
     }
+
   ]
 }
