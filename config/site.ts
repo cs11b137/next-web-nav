@@ -1,5 +1,8 @@
 import { gwAI,gnAI } from './ai'
 import { res } from './res'
+import { com } from './com'
+import { weekly} from './weekly'
+import { jobs } from './jobs'
 
 export type SiteConfig = typeof siteConfig
 
@@ -32,5 +35,8 @@ type NavData = {
 export const NavData: NavData[] = [
   gwAI,
   gnAI,
-  res
+  res,
+  com,
+  weekly,
+  jobs
 ]
