@@ -3,6 +3,8 @@ import { res } from './res'
 import { com } from './com'
 import { weekly} from './weekly'
 import { jobs } from './jobs'
+import { tool } from './tool'
+import { dres } from './dres'
 
 export type SiteConfig = typeof siteConfig
 
@@ -38,5 +40,7 @@ export const NavData: NavData[] = [
   res,
   com,
   weekly,
-  jobs
+  jobs,
+  tool,
+  dres
 ]
