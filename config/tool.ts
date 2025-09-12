@@ -114,7 +114,12 @@ export const tool ={
   title: "DeepWiki",
   desc: "让你可“对话”查看任何 GitHub 项目的文档与架构图",
   link: "https://deepwiki.org/"
+},
+{
+  icon: "https://storymotion.video/favicon.ico",
+  title: "StoryMotion",
+  desc: "基于 Excalidraw 的手绘风格动画编辑器，支持时间轴效果与视频导出",
+  link: "https://storymotion.video/"
 }
-
     ]    
 }
