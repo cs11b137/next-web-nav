@@ -50,7 +50,7 @@ export const tool ={
   link: "https://chartdb.io/"
 },
 {
-      icon: "",
+      icon: "https://mermaid.live/favicon.ico",
       title: "Mermaid Live",
       desc: "在线 Mermaid 编辑器：通过文本语法实时编辑、预览并分享图表（流程图、序列图、甘特图、类图、ER 等）",
       link: "https://mermaid.live/"

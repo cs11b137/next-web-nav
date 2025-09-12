@@ -8,7 +8,7 @@ export const com = {
         link: "https://juejin.cn/"
         },
         {
-        icon: "https://static.oschina.net/new-osc/img/favicon.ico",
+        icon: "https://www.oschina.net/favicon.ico",
         title: "OSChina",
         desc: "开源中国社区，聚焦开源软件资讯、项目与技术交流",
         link: "https://www.oschina.net/"
@@ -38,7 +38,7 @@ export const com = {
         link: "https://medium.com/"
         },
         {
-        icon: "https://www.xda-developers.com/favicon.ico",
+        icon: "https://static0.xdaimages.com/assets/images/favicon-192x192.0e68e523.png",
         title: "XDA Developers",
         desc: "关注移动设备与新兴技术的硬件软件社区",
         link: "https://www.xda-developers.com/"
