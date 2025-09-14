@@ -13,6 +13,12 @@ export const weekly = {
         desc: "每周收集前端精华文章与行业趋势推送",
         link: "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4MTYwMzY1Mw==&action=getalbum&album_id=1899297601078771727&scene=126&sessionid=1750648991253#wechat_redirect"
         },
+		{
+            icon: "https://gw.alicdn.com/imgextra/i2/O1CN01m9YYjS1QBeW5DOm3I_!!6000000001938-2-tps-400-400.png",
+            title: "Tw93 Weekly",
+            desc: "由 Tw93 整理的技术与效率周刊，涵盖工具、开发与产品思考",
+            link: "https://weekly.tw93.fun/"
+        },
         {
         icon: "https://engineering.fyi/stack-logo-256x256.png",
         title: "Engineering.fyi",
