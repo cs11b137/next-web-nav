@@ -36,7 +36,13 @@ export const gwAI = {
       title: "Perplexity",
       desc: "基于 AI 的新一代搜索与问答引擎",
       link: "https://www.perplexity.ai/"
-    }
+    },
+		{
+      icon: "https://notebooklm.google.com/_/static/branding/v5/light_mode/favicon/favicon.svg",
+      title: "NotebookLM",
+      desc: "Google 推出的 AI 笔记助手，支持总结、问答和内容组织",
+      link: "https://notebooklm.google.com/"
+}
   ]
 }
 
