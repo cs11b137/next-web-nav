@@ -42,6 +42,12 @@ export const gwAI = {
       title: "NotebookLM",
       desc: "Google 推出的 AI 笔记助手，支持总结、问答和内容组织",
       link: "https://notebooklm.google.com/"
+},
+	  {
+      icon: "https://www.gstatic.com/labs-code/favicon-48x48.png",
+      title: "Stitch",
+      desc: "Google Labs 实验工具，可用文字或草图快速生成应用界面",
+      link: "https://stitch.withgoogle.com/"
 }
   ]
 }
