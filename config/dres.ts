@@ -24,6 +24,12 @@ export const dres = {
       title: "MingCute",
       desc: "一套精致简洁的开源图标库",
       link: "https://www.mingcute.com/"
+    },
+		{
+      icon: "https://iconify.design/favicon.svg",
+      title: "Iconify",
+      desc: "开源图标集的发源地",
+      link: "https://iconify.design/"
     }
   ]
 }
