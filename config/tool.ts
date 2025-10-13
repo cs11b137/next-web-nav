@@ -121,5 +121,12 @@ export const tool ={
   desc: "基于 Excalidraw 的手绘风格动画编辑器，支持时间轴效果与视频导出",
   link: "https://storymotion.video/"
 }
+,
+{
+  icon: "https://www.candyicons.com/favicon/favicon-96x96.png",
+  title: "CandyIcons",
+  desc: "AI 驱动的图标生成工具，快速创建多风格 App 图标",
+  link: "https://www.candyicons.com/"
+}
     ]    
 }
