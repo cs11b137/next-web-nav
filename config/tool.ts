@@ -127,6 +127,14 @@ export const tool ={
   title: "CandyIcons",
   desc: "AI 驱动的图标生成工具，快速创建多风格 App 图标",
   link: "https://www.candyicons.com/"
+},
+		{
+icon: "https://aicrop.app/favicon.ico
+",
+title: "AI Crop",
+desc: "智能图片裁剪工具，自动生成多平台适配尺寸。",
+link: "https://aicrop.app/
+"
 }
     ]    
 }
