@@ -48,6 +48,12 @@ export const gwAI = {
       title: "Stitch",
       desc: "Google Labs 实验工具，可用文字或草图快速生成应用界面",
       link: "https://stitch.withgoogle.com/"
+},
+	  {
+  "icon": "https://cdn.openai.com/sora/assets/apple-touch-icon-nf2.png",
+  "title": "Sora",
+  "desc": "由 OpenAI 推出的 AI 视频生成工具，用户可通过文字或素材生成短视频",
+  "link": "https://sora.chatgpt.com/explore"
 }
   ]
 }
