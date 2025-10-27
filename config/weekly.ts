@@ -30,6 +30,12 @@ export const weekly = {
         title: "DecoHack Weekly",
         desc: "推荐有趣的独立产品与工具，每周更新",
         link: "https://decohack.com/"
+        },
+		{
+        icon: "https://karpathy.ai/assets/me_new.jpg",
+        title: "Andrej Karpathy",
+        desc: "AI大神博客",
+        link: "https://karpathy.ai/"
         }
     ]
 }
