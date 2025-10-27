@@ -50,10 +50,10 @@ export const gwAI = {
       link: "https://stitch.withgoogle.com/"
 },
 	  {
-  "icon": "https://cdn.openai.com/sora/assets/apple-touch-icon-nf2.png",
-  "title": "Sora",
-  "desc": "由 OpenAI 推出的 AI 视频生成工具，用户可通过文字或素材生成短视频",
-  "link": "https://sora.chatgpt.com/explore"
+  icon: "https://cdn.openai.com/sora/assets/apple-touch-icon-nf2.png",
+  title: "Sora",
+  desc: "由 OpenAI 推出的 AI 视频生成工具，用户可通过文字或素材生成短视频",
+  link: "https://sora.chatgpt.com/explore"
 }
   ]
 }
