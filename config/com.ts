@@ -42,12 +42,6 @@ export const com = {
         title: "XDA Developers",
         desc: "关注移动设备与新兴技术的硬件软件社区",
         link: "https://www.xda-developers.com/"
-        },
-        {
-        icon: "https://topsub.cc/favicon.ico",
-        title: "TopSub",
-        desc: "展示热门 Reddit 帖子排行榜",
-        link: "https://topsub.cc/"
         }
 
     ]
