@@ -68,6 +68,12 @@ export const res = {
   link: "https://github.com/patchy631/ai-engineering-hub"
 },
 {
+  icon: "https://skillsmp.com/favicon.svg",
+  title: "Claude Skills Market",
+  desc: "由社区构建的免费 AI 插件、工具和工作流",
+  link: "https://skillsmp.com/zh"
+},
+{
   icon: "https://www.mianshiya.com/favicon.ico",
   title: "Mianshiya",
   desc: "程序员免费在线刷题神器，涵盖海量高频面试题与优质题解",
