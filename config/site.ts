@@ -10,7 +10,7 @@ import { apiRes } from './api'
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Lynk",
+  name: "NaviKit",
   description: "基于 Next.js 的前端导航网站",
   mainNav: [],
   links: {
