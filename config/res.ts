@@ -57,21 +57,9 @@ export const res = {
 },
 {
   icon: "https://github.githubassets.com/favicons/favicon.svg",
-  title: "LLM-Cookbook",
-  desc: "面向开发者的 LLM 入门教程（含吴恩达系列）",
-  link: "https://github.com/datawhalechina/llm-cookbook"
-},
-{
-  icon: "https://github.githubassets.com/favicons/favicon.svg",
   title: "AI Engineering Hub",
   desc: "深入的 LLM、RAG 及 AI Agent 教程合集，适合从入门到实战",
   link: "https://github.com/patchy631/ai-engineering-hub"
-},
-{
-  icon: "https://skillsmp.com/favicon.svg",
-  title: "Claude Skills Market",
-  desc: "由社区构建的免费 AI 插件、工具和工作流",
-  link: "https://skillsmp.com/zh"
 },
 {
   icon: "https://www.mianshiya.com/favicon.ico",
