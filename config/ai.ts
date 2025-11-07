@@ -32,7 +32,7 @@ export const gwAI = {
       link: "https://aistudio.google.com/app/prompts/new_chat"
     },
     {
-      icon: "https://www.perplexity.ai/favicon.ico",
+      icon: "https://r2cdn.perplexity.ai/perplexity_dark_square.svg",
       title: "Perplexity",
       desc: "基于 AI 的新一代搜索与问答引擎",
       link: "https://www.perplexity.ai/"
@@ -91,6 +91,12 @@ export const gnAI = {
         title: "豆包",
         desc: "字节跳动旗下 AI 智能助手",
         link: "https://www.doubao.com/chat/"
+      },
+	{
+        icon: "https://static.yuanbao.tencent.com/m/yuanbao-web/favicon@32.png",
+        title: "元宝",
+        desc: "腾讯旗下 AI 智能助手",
+        link: "https://yuanbao.tencent.com/"
       }
     ]
 }
