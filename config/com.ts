@@ -36,12 +36,6 @@ export const com = {
         title: "Medium",
         desc: "全球创作者分享观点与故事的在线出版平台",
         link: "https://medium.com/"
-        },
-        {
-        icon: "https://static0.xdaimages.com/assets/images/favicon-192x192.0e68e523.png",
-        title: "XDA Developers",
-        desc: "关注移动设备与新兴技术的硬件软件社区",
-        link: "https://www.xda-developers.com/"
         }
 
     ]
