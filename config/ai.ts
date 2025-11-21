@@ -54,6 +54,12 @@ export const gwAI = {
   title: "Sora",
   desc: "由 OpenAI 推出的 AI 视频生成工具，用户可通过文字或素材生成短视频",
   link: "https://sora.chatgpt.com/explore"
+},
+	  {
+  icon: "https://codewiki.google/favicon.ico",
+  title: "Code Wiki",
+  desc: "谷歌新发布的服务，使用 Gemini 模型为代码库生成文档",
+  link: "https://codewiki.google/"
 }
   ]
 }
