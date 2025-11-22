@@ -36,7 +36,12 @@ export const com = {
         title: "Medium",
         desc: "全球创作者分享观点与故事的在线出版平台",
         link: "https://medium.com/"
+        },
+		{
+        icon: "https://zeli.app/favicon.svg",
+        title: "Zeli",
+        desc: "用中文阅读Hacker News和AI论文摘要",
+        link: "https://zeli.app/zh"
         }
-
     ]
 }
