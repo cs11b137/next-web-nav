@@ -56,7 +56,7 @@ export const gwAI = {
   link: "https://sora.chatgpt.com/explore"
 },
 	  {
-  icon: "https://codewiki.google/favicon.ico",
+  icon: "https://www.gstatic.com/_/boq-sdlc-agents-ui/_/r/JA1YkbZh5pk.svg",
   title: "Code Wiki",
   desc: "谷歌新发布的服务，使用 Gemini 模型为代码库生成文档",
   link: "https://codewiki.google/"
