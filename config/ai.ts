@@ -60,6 +60,12 @@ export const gwAI = {
   title: "Code Wiki",
   desc: "谷歌新发布的服务，使用 Gemini 模型为代码库生成文档",
   link: "https://codewiki.google/"
+},
+	  {
+  icon: "https://elevenlabs.io/favicon.ico",
+  title: "ElevenLabs",
+  desc: "免费AI语音生成器 & 语音代理平台",
+  link: "https://elevenlabs.io/"
 }
   ]
 }
