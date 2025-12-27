@@ -1,1 +1,18 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect width="512" height="512" fill="#ffffff" rx="64" ry="64"/><text x="50%" y="50%" dominant-baseline="central" text-anchor="middle" font-family="Times New Roman" font-weight="normal" fill="#000000" font-size="409.6" dy="0">✎</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <!-- 外框：极简细线圆角框 -->
+  <rect x="64" y="64" width="384" height="384" rx="120" stroke="currentColor" stroke-width="16"></rect>
+
+  <!-- 字母：圆润细线，严格控制在内圈 -->
+  <g stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- N -->
+    <path d="M164 348V164"></path>
+    <path d="M164 164L256 348"></path>
+    <path d="M256 348V164"></path>
+
+    <!-- K -->
+    <path d="M308 348V164"></path>
+    <path d="M308 256L388 176"></path>
+    <path d="M308 256L388 336"></path>
+  </g>
+</svg>
