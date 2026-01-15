@@ -1,5 +1,5 @@
 export const gwAI = {
-  title: "海外AI助手",
+  title: "大语言模型",
   items: [
     {
       icon: "https://cdn.oaistatic.com/assets/favicon-l4nq08hd.svg",
@@ -8,10 +8,10 @@ export const gwAI = {
       link: "https://chatgpt.com/"
     },
     {
-      icon: "https://www.gstatic.com/lamda/images/gemini_sparkle_aurora_33f86dc0c0257da337c63.svg",
-      title: "Gemini",
-      desc: "Google 推出的生成式人工智能平台",
-      link: "https://gemini.google.com/app"
+      icon: "https://www.gstatic.com/aistudio/ai_studio_favicon_2_256x256.png",
+      title: "Google AI Studio",
+      desc: "Google 提供的 AI 应用开发与实验平台",
+      link: "https://aistudio.google.com/app/prompts/new_chat"
     },
     {
       icon: "https://claude.ai/images/claude_app_icon.png",
@@ -24,18 +24,6 @@ export const gwAI = {
       title: "Grok",
       desc: "xAI（马斯克团队）开发的对话式 AI",
       link: "https://grok.com/"
-    },
-    {
-      icon: "https://www.gstatic.com/aistudio/ai_studio_favicon_2_256x256.png",
-      title: "Google AI Studio",
-      desc: "Google 提供的 AI 应用开发与实验平台",
-      link: "https://aistudio.google.com/app/prompts/new_chat"
-    },
-    {
-      icon: "https://r2cdn.perplexity.ai/perplexity_dark_square.svg",
-      title: "Perplexity",
-      desc: "基于 AI 的新一代搜索与问答引擎",
-      link: "https://www.perplexity.ai/"
     },
 		{
       icon: "https://notebooklm.google.com/_/static/branding/v5/light_mode/favicon/favicon.svg",
@@ -61,20 +49,7 @@ export const gwAI = {
   desc: "谷歌新发布的服务，使用 Gemini 模型为代码库生成文档",
   link: "https://codewiki.google/"
 },
-	  {
-  icon: "https://elevenlabs.io/favicon.ico",
-  title: "ElevenLabs",
-  desc: "免费AI语音生成器 & 语音代理平台",
-  link: "https://elevenlabs.io/"
-}
-  ]
-}
-
-
-export const gnAI = {
-    title: "本土AI助手",
-    items: [
-      {
+{
         icon: "https://img.alicdn.com/imgextra/i4/O1CN01EfJVFQ1uZPd7W4W6i_!!6000000006051-2-tps-112-112.png",
         title: "通义",
         desc: "阿里巴巴推出的中文大模型及 AI 助手",
@@ -97,18 +72,6 @@ export const gnAI = {
         title: "智谱",
         desc: "清华系团队研发的中文大模型与 AI 服务",
         link: "https://open.bigmodel.cn/"
-      },
-      {
-        icon: "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/web/logo-icon.png",
-        title: "豆包",
-        desc: "字节跳动旗下 AI 智能助手",
-        link: "https://www.doubao.com/chat/"
-      },
-	{
-        icon: "https://static.yuanbao.tencent.com/m/yuanbao-web/favicon@32.png",
-        title: "元宝",
-        desc: "腾讯旗下 AI 智能助手",
-        link: "https://yuanbao.tencent.com/"
       }
-    ]
+  ]
 }

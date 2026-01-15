@@ -18,18 +18,6 @@ export const apiRes = {
   title: "Free Public APIs",
   desc: "免费 Public API 目录，每天测试接口可靠性并展示状态评分",
   link: "https://www.freepublicapis.com/"
-},
-{
-  icon: "https://picsum.photos/assets/images/favicon/favicon-32x32.png",
-  title: "Picsum Photos",
-  desc: "简单易用的图片占位服务，可指定尺寸、灰度、静态随机图像等",
-  link: "https://picsum.photos/"
-},
-{
-  icon: "https://lipsum.com/favicon.ico",
-  title: "Lorem Ipsum",
-  desc: "广泛使用的虚拟文字生成器，用于展示页面布局",
-  link: "https://lipsum.com/"
 }
   ]
 }

@@ -26,12 +26,6 @@ export const com = {
         link: "https://www.v2ex.com/"
         },
         {
-        icon: "https://news.ycombinator.com/y18.svg",
-        title: "Hacker News",
-        desc: "关注计算机科学与创业的社交新闻聚合网站",
-        link: "https://hn.buzzing.cc/lite/"
-        },
-        {
         icon: "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
         title: "Medium",
         desc: "全球创作者分享观点与故事的在线出版平台",

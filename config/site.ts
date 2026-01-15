@@ -1,4 +1,4 @@
-import { gwAI,gnAI } from './ai'
+import { gwAI } from './ai'
 import { res } from './res'
 import { com } from './com'
 import { weekly} from './weekly'
@@ -37,7 +37,6 @@ type NavData = {
 
 export const NavData: NavData[] = [
   gwAI,
-  gnAI,
   res,
   com,
   weekly,

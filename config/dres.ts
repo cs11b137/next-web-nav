@@ -30,6 +30,12 @@ export const dres = {
       title: "Iconify",
       desc: "开源图标集的发源地",
       link: "https://iconify.design/"
+    },
+		{
+      icon: "https://storyset.com/favicon.ico",
+      title: "Storyset",
+      desc: "制作令人惊叹的着陆页、应用或演示文稿的免费插画",
+      link: "https://storyset.com/"
     }
   ]
 }
