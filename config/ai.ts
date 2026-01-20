@@ -25,6 +25,12 @@ export const gwAI = {
       desc: "xAI（马斯克团队）开发的对话式 AI",
       link: "https://grok.com/"
     },
+    {
+      icon: "https://manus.im/favicon.ico",
+      title: "Manus",
+      desc: "一个由 Manus 团队创建的自主通用 AI 智能体",
+      link: "https://manus.im/app"
+    },
 		{
       icon: "https://notebooklm.google.com/_/static/branding/v5/light_mode/favicon/favicon.svg",
       title: "NotebookLM",
