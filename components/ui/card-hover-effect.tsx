@@ -41,7 +41,7 @@ export const HoverEffect = ({
         const noIcon = !item.icon || item.icon.trim().length === 0
         const showFallback = noIcon || failed
         const initial = getInitial(item.title)
-        const bg = useMemo(() => stringToHsl(item.title || item.link), [item.title, item.link])
+        const bg = stringToHsl(item.title || item.link)
 
         return (
           <motion.div
