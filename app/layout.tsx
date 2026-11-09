@@ -14,7 +14,11 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   icons: {
-    icon: "/next-web-nav/favicon.svg",
+    icon: {
+      url: `${process.env.NODE_ENV === "production" ? "/next-web-nav" : ""}/favicon.svg`,
+      type: "image/svg+xml",
+      sizes: "any"
+    },
   }
 }
 

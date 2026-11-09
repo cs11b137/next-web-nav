@@ -1,18 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
-  <!-- 外框：极简细线圆角框 -->
-  <rect x="64" y="64" width="384" height="384" rx="120" stroke="currentColor" stroke-width="16"></rect>
-
-  <!-- 字母：圆润细线，严格控制在内圈 -->
-  <g stroke="currentColor" stroke-width="16" stroke-linecap="round" stroke-linejoin="round">
-
-    <!-- N -->
-    <path d="M164 348V164"></path>
-    <path d="M164 164L256 348"></path>
-    <path d="M256 348V164"></path>
-
-    <!-- K -->
-    <path d="M308 348V164"></path>
-    <path d="M308 256L388 176"></path>
-    <path d="M308 256L388 336"></path>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <title>NaviKit</title>
+  <rect width="64" height="64" rx="16" fill="#18181B"/>
+  <path d="M17 46V18L45 46V18" stroke="#FAFAFA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 18H45V28" stroke="#5EEAD4" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
